@@ -3,3 +3,4 @@ class Test{
         console.log("Hello world!");
     }
 }
+//Build .\node_modules\.bin\babel.cmd src -d lib
